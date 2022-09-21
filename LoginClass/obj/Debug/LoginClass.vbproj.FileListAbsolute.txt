@@ -1,0 +1,20 @@
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.dll
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.pdb
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.xml
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbprojAssemblyReference.cache
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.Resources.resources
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbproj.GenerateResource.cache
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbproj.CoreCompileInputs.cache
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.dll
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.xml
+C:\Users\human\Videos\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.pdb
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.dll
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.pdb
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\bin\Debug\LoginClass.xml
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbprojAssemblyReference.cache
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.Resources.resources
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbproj.GenerateResource.cache
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.dll
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.xml
+D:\Kuliah\Semester_8\.Net 2\Game_VisualNovel\LoginClass\obj\Debug\LoginClass.pdb
