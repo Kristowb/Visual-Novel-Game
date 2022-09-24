@@ -3,3 +3,7 @@ Visual Studio Project to complete the end semester test. People that contribute 
 - Kristianto Wibawa
 - Ricky Fernando
 - Enrico Wibawa
+
+# Framework #
+- Bunifu Framework
+- Material Design
